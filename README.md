@@ -11,7 +11,7 @@ CIPHER is a population-scale electronic health records study examining inequalit
 
 Cardiovascular disease (CVD) accounts for around 25% of deaths in England and is a major driver of health inequalities. Despite national prevention programmes such as **NHS Health Checks** and digital initiatives like **NHS BP@Home**, uptake and outcomes remain uneven across population groups.
 
-This project investigates how inequalities arise across the full care pathway—from invitation and diagnosis to treatment and control—and how these patterns have changed over time.
+This project investigates how inequalities arise across the full care pathway, from invitation and diagnosis to treatment and control, and how these patterns have changed over time.
 
 ## Aims
 
